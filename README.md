@@ -47,7 +47,10 @@ css    img    js          mkdocs   sitemap.xml
 ```
 
 ## Deployment
-- S3 Cognito
+- S3, CloudFront
+
+## Authn
+- Cognito, GSuite SAML SSO
 
 ## References
 - https://www.mkdocs.org/#mkdocs
