@@ -54,3 +54,4 @@ css    img    js          mkdocs   sitemap.xml
 
 ## References
 - https://www.mkdocs.org/#mkdocs
+- https://squidfunk.github.io/mkdocs-material/
